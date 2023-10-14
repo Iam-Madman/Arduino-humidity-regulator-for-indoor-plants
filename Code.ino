@@ -9,8 +9,7 @@ const int buzzer = 9 ;
 void setup() {
  Serial.begin(9600);
  Serial.println(F("My auto humidifier Made by Abinav"));
- pinMode(atomizer, OUTPUT);
-- 10 -
+ pinMode(atomizer, OUTPUT);-
  pinMode(buzzer, OUTPUT);
  dht.begin();
 }
