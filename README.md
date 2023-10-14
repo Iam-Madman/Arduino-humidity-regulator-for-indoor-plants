@@ -35,3 +35,6 @@ have incredibly high humidity requirements of around 90%! This level is
 also perfect for germination and seedling growth.
 
 ![image](https://github.com/Iam-Madman/REGULATION-OF-INDOOR-HUMIDITY-FOR-PLANT-GROWTH/assets/147543907/69439dbe-4026-4930-96f2-ec11df40bb87)
+![image](https://github.com/Iam-Madman/Arduino-humidity-regulator-for-indoor-plants/assets/147543907/4380ff63-f98c-4260-996a-50103f2cef92)
+
+
