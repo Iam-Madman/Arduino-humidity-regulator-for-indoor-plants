@@ -33,3 +33,5 @@ tropical plants.
 80% +: Though not possible at home, tropical plants such as pineapples
 have incredibly high humidity requirements of around 90%! This level is
 also perfect for germination and seedling growth.
+
+![image](https://github.com/Iam-Madman/REGULATION-OF-INDOOR-HUMIDITY-FOR-PLANT-GROWTH/assets/147543907/69439dbe-4026-4930-96f2-ec11df40bb87)
